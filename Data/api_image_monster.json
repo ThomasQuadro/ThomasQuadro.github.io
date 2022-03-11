@@ -5,7 +5,7 @@
         "species": "herbivore",
         "elements": [],
         "name": "Aptonoth",
-		"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1068896d-d9b5-4d76-b3b7-31da7b667350/daw9hau-34f26b94-8bba-44ca-b3bf-a23bb78fb0c1.jpg/v1/fill/w_1327,h_602,q_70,strp/monster_hunter__aptonoth_by_acrosaurotaurus_daw9hau-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkwOCIsInBhdGgiOiJcL2ZcLzEwNjg4OTZkLWQ5YjUtNGQ3Ni1iM2I3LTMxZGE3YjY2NzM1MFwvZGF3OWhhdS0zNGYyNmI5NC04YmJhLTQ0Y2EtYjNiZi1hMjNiYjc4ZmIwYzEuanBnIiwid2lkdGgiOiI8PTQyMDEifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-ZGYbSpEmICUSXcHTr1MqVTL9XM-tHjWs32GOVReC7M",
+	"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1068896d-d9b5-4d76-b3b7-31da7b667350/daw9hau-34f26b94-8bba-44ca-b3bf-a23bb78fb0c1.jpg/v1/fill/w_1327,h_602,q_70,strp/monster_hunter__aptonoth_by_acrosaurotaurus_daw9hau-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkwOCIsInBhdGgiOiJcL2ZcLzEwNjg4OTZkLWQ5YjUtNGQ3Ni1iM2I3LTMxZGE3YjY2NzM1MFwvZGF3OWhhdS0zNGYyNmI5NC04YmJhLTQ0Y2EtYjNiZi1hMjNiYjc4ZmIwYzEuanBnIiwid2lkdGgiOiI8PTQyMDEifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-ZGYbSpEmICUSXcHTr1MqVTL9XM-tHjWs32GOVReC7M",
         "description": "Docile herbivores that graze in packs. Their meat is considered a delicacy and is rich in nutrients. If one member of the herd is attacked, the rest will flee immediately.",
         "ailments": [],
         "locations": [
@@ -74,7 +74,7 @@
         "species": "fanged wyvern",
         "elements": [],
         "name": "Jagras",
-		"url": "https://media.discordapp.net/attachments/930522419645534278/951939672903393340/1034643-xc4xf903zc231-article_m-1.png",
+	"url": "https://media.discordapp.net/attachments/930522419645534278/951939672903393340/1034643-xc4xf903zc231-article_m-1.png",
         "description": "Members of the Great Jagras pack, these smaller monsters will flee upon seeing one of their own perish. They're also known for ambushing larger monsters at a moment's notice.",
         "ailments": [],
         "locations": [
@@ -105,7 +105,7 @@
         "species": "wingdrake",
         "elements": [],
         "name": "Mernos",
-		"url": "https://pbs.twimg.com/media/EXHCqedXkAAimk1.jpg",
+	"url": "https://pbs.twimg.com/media/EXHCqedXkAAimk1.jpg",
         "description": "Wingdrakes that feast on scatternuts. The flock will travel great distances when startled, making them an invaluable mode of transportation for clever hunters.",
         "ailments": [],
         "locations": [
@@ -151,7 +151,7 @@
         "species": "neopteron",
         "elements": [],
         "name": "Vespoid",
-		"url": "https://www.eliteguias.com/img/juegos/monster-hunter-stories-2-wings-of-ruin/vespoid.jpg",
+	"url": "https://www.eliteguias.com/img/juegos/monster-hunter-stories-2-wings-of-ruin/vespoid.jpg",
         "description": "Insects that paralyze their targets with their long stingers. They break easily, so attack them with poison or slinger ammo if you want to carve them.",
         "ailments": [
             {
@@ -222,7 +222,7 @@
         "species": "herbivore",
         "elements": [],
         "name": "Mosswine",
-		"url": "https://static.wikia.nocookie.net/monsterhunter/images/c/cb/Mosswine2.png/revision/latest/scale-to-width-down/267?cb=20070806034021",
+	"url": "https://static.wikia.nocookie.net/monsterhunter/images/c/cb/Mosswine2.png/revision/latest/scale-to-width-down/267?cb=20070806034021",
         "description": "Mosswine are known for their excellent sense of smell, and are often found foraging for fungi. If you're hunting for mushrooms, follow the Mosswine to the motherlode.",
         "ailments": [],
         "locations": [
@@ -273,7 +273,7 @@
         "species": "herbivore",
         "elements": [],
         "name": "Apceros",
-		"url": "https://www.eliteguias.com/img/juegos/monster-hunter-stories-2-wings-of-ruin/apceros.jpg",
+	"url": "https://www.eliteguias.com/img/juegos/monster-hunter-stories-2-wings-of-ruin/apceros.jpg",
         "description": "Herbivores that inhabit the Wildspire Waste. They've developed particularly hard hide to ward off attackers, and are known to gather in groups to defend themselves.",
         "ailments": [],
         "locations": [
@@ -332,7 +332,7 @@
         "species": "herbivore",
         "elements": [],
         "name": "Kestodon",
-		"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c4130173-72b7-4151-859d-6c45327b7079/ddd8bdj-c4db821d-e40e-4532-aa26-21ca241bf07f.jpg/v1/fill/w_1185,h_674,q_70,strp/kestodrome_by_bangboodoragon_ddd8bdj-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2M0MTMwMTczLTcyYjctNDE1MS04NTlkLTZjNDUzMjdiNzA3OVwvZGRkOGJkai1jNGRiODIxZC1lNDBlLTQ1MzItYWEyNi0yMWNhMjQxYmYwN2YuanBnIiwid2lkdGgiOiI8PTIyNTAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.49vVgI17k5WYenlYHpuk6zmUXkU_TBcdnwyxmQTKPL8",
+	"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c4130173-72b7-4151-859d-6c45327b7079/ddd8bdj-c4db821d-e40e-4532-aa26-21ca241bf07f.jpg/v1/fill/w_1185,h_674,q_70,strp/kestodrome_by_bangboodoragon_ddd8bdj-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2M0MTMwMTczLTcyYjctNDE1MS04NTlkLTZjNDUzMjdiNzA3OVwvZGRkOGJkai1jNGRiODIxZC1lNDBlLTQ1MzItYWEyNi0yMWNhMjQxYmYwN2YuanBnIiwid2lkdGgiOiI8PTIyNTAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.49vVgI17k5WYenlYHpuk6zmUXkU_TBcdnwyxmQTKPL8",
         "description": "Female Kestodon will alert the pack of danger, while the males will violently charge would-be threats. Their rushing charges can be blocked, however, leaving them open to attacks.",
         "ailments": [],
         "locations": [
@@ -368,7 +368,7 @@
         "species": "wingdrake",
         "elements": [],
         "name": "Noios",
-		"url": "https://pbs.twimg.com/media/EXHPRLJWAAUQefL?format=jpg&name=4096x4096",
+	"url": "https://pbs.twimg.com/media/EXHPRLJWAAUQefL?format=jpg&name=4096x4096",
         "description": "Wingdrakes that produce a sound similar to screamer pods when startled. Use meat to get their attention, and then hunt them for materials, or use them for transportation.",
         "ailments": [],
         "locations": [
@@ -404,7 +404,7 @@
         "species": "fish",
         "elements": [],
         "name": "Gajau",
-		"url": "https://static1.millenium.org/articles/3/27/71/23/@/256187-mh-gajau-article_m-1.jpg",
+	"url": "https://static1.millenium.org/articles/3/27/71/23/@/256187-mh-gajau-article_m-1.jpg",
         "description": "Vicious piscine that form groups to defend their territory from intruders. Be sure not to venture too closely to their habitat!",
         "ailments": [],
         "locations": [
@@ -440,7 +440,7 @@
         "species": "herbivore",
         "elements": [],
         "name": "Kelbi",
-		"url": "https://www.eliteguias.com/img/juegos/monster-hunter-stories-2-wings-of-ruin/kelbi.jpg",
+	"url": "https://www.eliteguias.com/img/juegos/monster-hunter-stories-2-wings-of-ruin/kelbi.jpg",
         "description": "Small herbivores known for their gentle demeanor and the medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them.",
         "ailments": [],
         "locations": [
@@ -486,7 +486,7 @@
         "species": "wingdrake",
         "elements": [],
         "name": "Raphinos",
-		"url": "https://i.imgur.com/c9Qzv5L.jpg",
+	"url": "https://i.imgur.com/c9Qzv5L.jpg",
         "description": "Wingdrakes inhabiting the Coral Highlands. They group up to steal the eggs of other animals, but this in turn exposes them to the attention of larger, more vicious predators.",
         "ailments": [],
         "locations": [
@@ -517,7 +517,7 @@
         "species": "fanged wyvern",
         "elements": [],
         "name": "Shamos",
-		"url": "https://cdnb.artstation.com/p/assets/images/images/029/923/179/large/manon-baconnais-shamos3.jpg?1599050539",
+	"url": "https://cdnb.artstation.com/p/assets/images/images/029/923/179/large/manon-baconnais-shamos3.jpg?1599050539",
         "description": "Small nocturnal monsters. They're particularly vulnerable to Tzitzi-Ya-Ku's blinding flash, but have been known to gang up on enemies.",
         "ailments": [],
         "locations": [
@@ -548,7 +548,7 @@
         "species": "fanged wyvern",
         "elements": [],
         "name": "Girros",
-		"url": "https://static1.millenium.org/articles/3/27/71/23/@/256227-mh-girros-full-1.jpg",
+	"url": "https://static1.millenium.org/articles/3/27/71/23/@/256227-mh-girros-full-1.jpg",
         "description": "Monsters known to attack in packs, using the deadly vapor of the Rotten Vale to their advantage. They're known for crippling targets with paralyzing fangs.",
         "ailments": [
             {
@@ -594,7 +594,7 @@
         "species": "neopteron",
         "elements": [],
         "name": "Hornetaur",
-		"url": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/01/Monster-Hunter-World-Hornetaur-Feature.jpg?q=50&fit=contain&w=750&h=375&dpr=1.5",
+	"url": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/01/Monster-Hunter-World-Hornetaur-Feature.jpg?q=50&fit=contain&w=750&h=375&dpr=1.5",
         "description": "Small insects that are found primarily on land. They're highly territorial and will attack anything that approaches them. Gather their materials by attacking them with the slinger.",
         "ailments": [],
         "locations": [
@@ -625,7 +625,7 @@
         "species": "herbivore",
         "elements": [],
         "name": "Gastodon",
-		"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b701f0bb-ef28-4cfc-876a-7698f5ac2adf/de1xvf1-b99f0b36-1933-42b6-93fd-b8981f3465c3.png/v1/fill/w_1222,h_654,q_70,strp/gastodon_sketch_by_dahurgthedragon_de1xvf1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njg1IiwicGF0aCI6IlwvZlwvYjcwMWYwYmItZWYyOC00Y2ZjLTg3NmEtNzY5OGY1YWMyYWRmXC9kZTF4dmYxLWI5OWYwYjM2LTE5MzMtNDJiNi05M2ZkLWI4OTgxZjM0NjVjMy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.fIbat7WMPeqSJe8w8alBjJlQUR_ANBOqUhKGcFKdnnY",
+	"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b701f0bb-ef28-4cfc-876a-7698f5ac2adf/de1xvf1-b99f0b36-1933-42b6-93fd-b8981f3465c3.png/v1/fill/w_1222,h_654,q_70,strp/gastodon_sketch_by_dahurgthedragon_de1xvf1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njg1IiwicGF0aCI6IlwvZlwvYjcwMWYwYmItZWYyOC00Y2ZjLTg3NmEtNzY5OGY1YWMyYWRmXC9kZTF4dmYxLWI5OWYwYjM2LTE5MzMtNDJiNi05M2ZkLWI4OTgxZjM0NjVjMy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.fIbat7WMPeqSJe8w8alBjJlQUR_ANBOqUhKGcFKdnnY",
         "description": "Pack monsters that inhabit the Elder's Recess. They are easily angered by intruders, and will charge at monsters twice their size.",
         "ailments": [],
         "locations": [
@@ -651,7 +651,7 @@
         "species": "wingdrake",
         "elements": [],
         "name": "Barnos",
-		"url": "https://www.creativeuncut.com/gallery-35/art/mhw-barnos-swooping.jpg",
+	"url": "https://www.creativeuncut.com/gallery-35/art/mhw-barnos-swooping.jpg",
         "description": "Fervid wingdrakes that have flourished under harsh living conditions. They target intruders with a unique acidic agent, and then attack as a swarm.",
         "ailments": [
             {
@@ -866,7 +866,7 @@
         "species": "fanged wyvern",
         "elements": [],
         "name": "Great Jagras",
-		"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f8a8e770-6bcf-4826-8691-f94c03ed099a/dda9wil-d15e91aa-3e8e-4b14-b543-8a94334b8809.png/v1/fill/w_1079,h_740,strp/great_jagras_by_freakyraptor_dda9wil-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM3MiIsInBhdGgiOiJcL2ZcL2Y4YThlNzcwLTZiY2YtNDgyNi04NjkxLWY5NGMwM2VkMDk5YVwvZGRhOXdpbC1kMTVlOTFhYS0zZThlLTRiMTQtYjU0My04YTk0MzM0Yjg4MDkucG5nIiwid2lkdGgiOiI8PTIwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.yszTB-7MMIzO0CL4x-NXyZ9UX2C4U7kT9XUNpJ6Yujo",
+	"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f8a8e770-6bcf-4826-8691-f94c03ed099a/dda9wil-d15e91aa-3e8e-4b14-b543-8a94334b8809.png/v1/fill/w_1079,h_740,strp/great_jagras_by_freakyraptor_dda9wil-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM3MiIsInBhdGgiOiJcL2ZcL2Y4YThlNzcwLTZiY2YtNDgyNi04NjkxLWY5NGMwM2VkMDk5YVwvZGRhOXdpbC1kMTVlOTFhYS0zZThlLTRiMTQtYjU0My04YTk0MzM0Yjg4MDkucG5nIiwid2lkdGgiOiI8PTIwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.yszTB-7MMIzO0CL4x-NXyZ9UX2C4U7kT9XUNpJ6Yujo",
         "description": "The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey.",
         "ailments": [],
         "locations": [
@@ -937,7 +937,7 @@
         "species": "bird wyvern",
         "elements": [],
         "name": "Kulu-Ya-Ku",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kula-ya-ku-large-monster-hunter-worl-mhw.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kula-ya-ku-large-monster-hunter-worl-mhw.jpg",
         "description": "An odd bird wyvern that has developed limbs capable of carrying weapons. It's been spotted stealing eggs from nests found in the Ancient Forest and Wildspire Waste.",
         "ailments": [],
         "locations": [
@@ -1013,7 +1013,7 @@
         "species": "bird wyvern",
         "elements": [],
         "name": "Pukei-Pukei",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-pukei-large-monster-hunter-world-mhw.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-pukei-large-monster-hunter-world-mhw.jpg",
         "description": "A bird wyvern known to possess poisonous toxins in its body. It's been spotted storing scatternuts in its mouth or tail, coating them with poison and spitting them out at threats.",
         "ailments": [
             {
@@ -1145,7 +1145,7 @@
         "species": "brute wyvern",
         "elements": [],
         "name": "Barroth",
-		"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c059733-5f60-4a2c-bf9f-006d18624ca2/d2sv3ry-fbb3fcca-d351-4dad-9d94-0f2f0f4527cd.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBjMDU5NzMzLTVmNjAtNGEyYy1iZjlmLTAwNmQxODYyNGNhMlwvZDJzdjNyeS1mYmIzZmNjYS1kMzUxLTRkYWQtOWQ5NC0wZjJmMGY0NTI3Y2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.t9oGMhvwkzeGBsHzG2YtzPrCRtwbVd37wGchnemJ2xk",
+	"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c059733-5f60-4a2c-bf9f-006d18624ca2/d2sv3ry-fbb3fcca-d351-4dad-9d94-0f2f0f4527cd.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBjMDU5NzMzLTVmNjAtNGEyYy1iZjlmLTAwNmQxODYyNGNhMlwvZDJzdjNyeS1mYmIzZmNjYS1kMzUxLTRkYWQtOWQ5NC0wZjJmMGY0NTI3Y2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.t9oGMhvwkzeGBsHzG2YtzPrCRtwbVd37wGchnemJ2xk",
         "description": "Barroth seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack.",
         "ailments": [
             {
@@ -2020,7 +2020,7 @@
             "water"
         ],
         "name": "Jyuratodus",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/monsterhunterworld_8oieg1xu43.png",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/monsterhunterworld_8oieg1xu43.png",
         "description": "A large piscine wyvern that inhabits the swamps of the Wildspire Waste. It uses mud to capture prey, and it's known to battle Barroth over territory.",
         "ailments": [
             {
@@ -2142,7 +2142,7 @@
             "thunder"
         ],
         "name": "Tobi-Kadachi",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tobi-kadachi-large-monster-hunter-world-mhw.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tobi-kadachi-large-monster-hunter-world-mhw.jpg",
         "description": "A fanged wyvern that flies among the trees of the Ancient Forest. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fur.",
         "ailments": [
             {
@@ -2240,7 +2240,7 @@
             "fire"
         ],
         "name": "Anjanath",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/anjanath-monster-hunter-world-large-monster.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/anjanath-monster-hunter-world-large-monster.jpg",
         "description": "The Anjanath patrols the Ancient Forest, looking for its favorite meal, Aptonoth. This belligerent monster will attack anything without hesitation.",
         "ailments": [
             {
@@ -3182,7 +3182,7 @@
             "fire"
         ],
         "name": "Azure Rathalos",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/azure_rathalos-monster-hunter-world-large-monster.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/azure_rathalos-monster-hunter-world-large-monster.jpg",
         "description": "An azure-colored subspecies of Rathalos. More mobile than their standard cousins, they locate prey from the air and quickly swoop in for the kill.",
         "ailments": [
             {
@@ -3829,7 +3829,7 @@
             "fire"
         ],
         "name": "Bazelgeuse",
-		"url": "https://i.pinimg.com/564x/e2/a7/06/e2a70611d72918cf2773b065986fb1d7.jpg",
+	"url": "https://i.pinimg.com/564x/e2/a7/06/e2a70611d72918cf2773b065986fb1d7.jpg",
         "description": "A nefarious flying wyvern that travels the New World in search of prey. It scatters explosive scales over a wide area to prey on whatever gets caught in the blast.",
         "ailments": [
             {
@@ -4430,7 +4430,7 @@
             "thunder"
         ],
         "name": "Behemoth",
-		"url": "https://preview.redd.it/6ewwocr4sli41.jpg?width=960&crop=smart&auto=webp&s=b7c9b80e5ca5b73ab8e4583d46b191e3e6865c81",
+	"url": "https://preview.redd.it/6ewwocr4sli41.jpg?width=960&crop=smart&auto=webp&s=b7c9b80e5ca5b73ab8e4583d46b191e3e6865c81",
         "description": "A powerful beast from another world. Its large horns and muscular frame defy nature. Unique strategies are required to battle it.",
         "ailments": [
             {
@@ -4596,7 +4596,7 @@
             "dragon"
         ],
         "name": "Deviljho",
-		"url": "https://64.media.tumblr.com/d67eaf5c432eb1aaf9bf9b890eeef0a4/tumblr_p69go4Op281tu83k7o1_500.png",
+	"url": "https://64.media.tumblr.com/d67eaf5c432eb1aaf9bf9b890eeef0a4/tumblr_p69go4Op281tu83k7o1_500.png",
         "description": "A monster that must feed constantly and will devour anything in its path, even feeding on the largest of monsters with its massive jowls.",
         "ailments": [
             {
@@ -4760,7 +4760,7 @@
         "species": "flying wyvern",
         "elements": [],
         "name": "Diablos",
-		"url": "https://i.kym-cdn.com/photos/images/newsfeed/001/504/642/561.png",
+	"url": "https://i.kym-cdn.com/photos/images/newsfeed/001/504/642/561.png",
         "description": "The apex monster of the Wildspire Waste.\nA menacing, territorial beast that lurks underground.\nLoud noises will cause it to lunge out of the sand in search of prey.",
         "ailments": [
             {
@@ -5587,7 +5587,7 @@
         "species": "flying wyvern",
         "elements": [],
         "name": "Black Diablos",
-		"url": "https://pm1.narvii.com/6693/0e435ed8421c61ca189a3e3dc5eb541d9699a226_hq.jpg",
+	"url": "https://pm1.narvii.com/6693/0e435ed8421c61ca189a3e3dc5eb541d9699a226_hq.jpg",
         "description": "These black-shelled Diablos are actually female Diablos in heat. The color signals their aggressiveness and heightened hostility to other creatures in their habitat.",
         "ailments": [],
         "locations": [
@@ -6138,7 +6138,7 @@
             "fire"
         ],
         "name": "Dodogama",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dodogama-gallery.png",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dodogama-gallery.png",
         "description": "A monster that devours rock as its primary diet. The Crystals it devours mix with its saliva to produce explosive minerals that it can spit at its enemies.",
         "ailments": [
             {
@@ -6554,7 +6554,7 @@
         "species": "fanged wyvern",
         "elements": [],
         "name": "Great Girros",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/great-girros-large-monster.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/great-girros-large-monster.jpg",
         "description": "A monster that scavenges for meals dropped from the Coral Highlands.\nIt acts as the alpha leader of a Girros pack, and sports giant fangs that paralyze its prey.",
         "ailments": [
             {
@@ -6647,7 +6647,7 @@
             "thunder"
         ],
         "name": "Kirin",
-		"url": "https://static1.millenium.org/articles/9/28/53/19/@/198651-mhwv9-30-article_image_d-2.jpg",
+	"url": "https://static1.millenium.org/articles/9/28/53/19/@/198651-mhwv9-30-article_image_d-2.jpg",
         "description": "Kirin are so rarely sighted that little is known of their ecology. It's been said they envelop themselves in pure electricity when they are provoked.\nThe lightning a Kirin cloaks itself with has been confirmed to toughen its skin. The key to hunting a Kirin lies in staggering it, using Elderseal weapons, and protecting yourself from and avoiding its lightning attacks.",
         "ailments": [
             {
@@ -7382,7 +7382,7 @@
             "fire"
         ],
         "name": "Kulve Taroth",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroth-monster-hunter-world-large-monster.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroth-monster-hunter-world-large-monster.jpg",
         "description": "An Elder Dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation. An exhaustive investigation is required in order to break Kulve Taroth's giant gold plated horns. Pursue the monster to learn more about it. Gather tracks and recruit hunters to help you further your investigation.",
         "ailments": [
             {
@@ -7496,7 +7496,7 @@
         "species": "elder dragon",
         "elements": [],
         "name": "Kushala Daora",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala-daora-large-monster-hunter-world-mhw.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala-daora-large-monster-hunter-world-mhw.jpg",
         "description": "An elder dragon that shields itself with fierce winds, preventing anyone from approaching it. Its skin consists of hard, metallic scales.",
         "ailments": [
             {
@@ -7593,7 +7593,7 @@
             "fire"
         ],
         "name": "Lavasioth",
-		"url": "https://64.media.tumblr.com/59843eefbe18eaab410d44dfedeb1c02/tumblr_mseslgU7aG1ssr51lo1_640.jpg",
+	"url": "https://64.media.tumblr.com/59843eefbe18eaab410d44dfedeb1c02/tumblr_mseslgU7aG1ssr51lo1_640.jpg",
         "description": "Lavasioth utilizes molten lava as armor. They are extremely aggressive and will attack without prejudice until the threat has been eliminated.",
         "ailments": [
             {
@@ -7709,7 +7709,7 @@
             "ice"
         ],
         "name": "Legiana",
-		"url": "https://preview.redd.it/b4lbfiv78mr31.png?width=1650&format=png&auto=webp&s=6992ee2ea3305aa1f9f573e4cece55d3be4dbd74",
+	"url": "https://preview.redd.it/b4lbfiv78mr31.png?width=1650&format=png&auto=webp&s=6992ee2ea3305aa1f9f573e4cece55d3be4dbd74",
         "description": "The apex monster of the Coral Highlands, whose diet primarily consists of Raphinos. It emits a chilling wind from its body, which dulls its prey's ability to escape.",
         "ailments": [
             {
@@ -7810,7 +7810,7 @@
             "fire"
         ],
         "name": "Lunastra",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/lunastra_monster_hunter_world_large.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/lunastra_monster_hunter_world_large.jpg",
         "description": "A rare female Elder Dragon that litters the air with hot blue dust. Reports of it traveling with her mate, Teostra, are still unconfirmed.",
         "ailments": [
             {
@@ -7906,7 +7906,7 @@
         "species": "elder dragon",
         "elements": [],
         "name": "Nergigante",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante-gallery.png",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante-gallery.png",
         "description": "A terrible elder dragon that appears when other elders are in the vicinity. Its penchant for destruction is well documented.",
         "ailments": [],
         "locations": [
@@ -7982,7 +7982,7 @@
         "species": "fanged wyvern",
         "elements": [],
         "name": "Odogaron",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/odogaron-monster-hunter-world-large-monster.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/odogaron-monster-hunter-world-large-monster.jpg",
         "description": "A terrifying monster that scours the Rotten Vale for carrion. Its highly aggressive nature means that anything, be it monster or man, is a potential meal.",
         "ailments": [
             {
@@ -8103,7 +8103,7 @@
         "species": "flying wyvern",
         "elements": [],
         "name": "Paolumu",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/paolumu-kadachi-large-monster-hunter-world-mhw.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/paolumu-kadachi-large-monster-hunter-world-mhw.jpg",
         "description": "Paolumu feast on eggs found in the Coral Highlands. They are able to propel through the air using unique sacs in their bodies, and attack with their extremely hard tails.",
         "ailments": [
             {
@@ -8199,7 +8199,7 @@
         "species": "brute wyvern",
         "elements": [],
         "name": "Radobaan",
-		"url": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.6435-9/108924019_3123832791065960_7429939482629465304_n.png?stp=dst-png_s320x320&_nc_cat=101&ccb=1-5&_nc_sid=8024bb&_nc_ohc=cEjOfx5pWigAX98jR4K&_nc_ht=scontent-cdt1-1.xx&oh=00_AT_se64i9ylfqgyod31g8XHl4yeY0l0jjgSS7-cnEkeKKg&oe=6250DFB9",
+	"url": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.6435-9/108924019_3123832791065960_7429939482629465304_n.png?stp=dst-png_s320x320&_nc_cat=101&ccb=1-5&_nc_sid=8024bb&_nc_ohc=cEjOfx5pWigAX98jR4K&_nc_ht=scontent-cdt1-1.xx&oh=00_AT_se64i9ylfqgyod31g8XHl4yeY0l0jjgSS7-cnEkeKKg&oe=6250DFB9",
         "description": "A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.",
         "ailments": [
             {
@@ -8301,7 +8301,7 @@
             "fire"
         ],
         "name": "Rathalos",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rathalos-monster-hunter-world-large-monster.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rathalos-monster-hunter-world-large-monster.jpg",
         "description": "The apex monster of the Ancient Forest, also known as the \"King of the Skies\". A fierce wyvern that descends upon invaders, attacking with its venomous claws and fiery breath.",
         "ailments": [
             {
@@ -8454,7 +8454,7 @@
             "fire"
         ],
         "name": "Rathian",
-		"url": "https://jeuxpourtous.org/wp-content/uploads/2019/11/1574887103_917_MHW-ICEBORNE-Comment-debloquer-Rathian-Gold.jpg",
+	"url": "https://jeuxpourtous.org/wp-content/uploads/2019/11/1574887103_917_MHW-ICEBORNE-Comment-debloquer-Rathian-Gold.jpg",
         "description": "A wyvern known as the \"Queen of the Land.\" Terrestrial predator, it overpowers its prey with a venomous tail and powerful legs.",
         "ailments": [
             {
@@ -8593,7 +8593,7 @@
             "fire"
         ],
         "name": "Pink Rathian",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/monster-hunter-world-pink-rathian.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/monster-hunter-world-pink-rathian.jpg",
         "description": "A subspecies with vibrant pink scales. Pink Rathians wield their toxic tails more deftly than normal Rathians, weakening prey with poison before moving in for the kill.",
         "ailments": [
             {
@@ -8732,7 +8732,7 @@
             "fire"
         ],
         "name": "Teostra",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/Teostra-large-monster-hunter-world-mhw.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/Teostra-large-monster-hunter-world-mhw.jpg",
         "description": "A brutal elder dragon wreathed in flames that spits blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements.",
         "ailments": [
             {
@@ -8854,7 +8854,7 @@
         "species": "bird wyvern",
         "elements": [],
         "name": "Tzitzi-Ya-Ku",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tzitzi-ya-ku-large-monster-hunter-world-mhw.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tzitzi-ya-ku-large-monster-hunter-world-mhw.jpg",
         "description": "This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.",
         "ailments": [
             {
@@ -8947,7 +8947,7 @@
             "fire"
         ],
         "name": "Uragaan",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/Uragaan-large-monster-hunter-world-mhw.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/Uragaan-large-monster-hunter-world-mhw.jpg",
         "description": "Large Brute Wyverns that feed on ore, using their mighty jaws to crush solid rock to powder. They've been known to confront Lavasioths over territory disputes.",
         "ailments": [
             {
@@ -9071,7 +9071,7 @@
         "species": "elder dragon",
         "elements": [],
         "name": "Vaal Hazak",
-		"url": "https://steamuserimages-a.akamaihd.net/ugc/960847021868088040/5DFCF9C67969BF8C9DBF0F146B5635FBFA1995DE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+	"url": "https://steamuserimages-a.akamaihd.net/ugc/960847021868088040/5DFCF9C67969BF8C9DBF0F146B5635FBFA1995DE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
         "description": "A grotesque Elder Dragon, that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",
         "ailments": [
             {
@@ -9178,7 +9178,7 @@
             "dragon"
         ],
         "name": "Xeno'jiiva",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno'jiiva-gallery.png",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno'jiiva-gallery.png",
         "description": "RESEARCHING. Threat level unknown.",
         "ailments": [
             {
@@ -9298,7 +9298,7 @@
             "fire"
         ],
         "name": "Zorah Magdaros",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah-magdaros-gallery.png",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah-magdaros-gallery.png",
         "description": "An elder dragon that rises from the earth like a volcano. Where it's headed, and why, the Research Commission has yet to figure out.",
         "ailments": [
             {
@@ -9390,7 +9390,7 @@
         "species": "relict",
         "elements": [],
         "name": "Leshen",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/leshen-large-monster-monster-hunter-world-wiki-guide-mhw.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/leshen-large-monster-monster-hunter-world-wiki-guide-mhw.jpg",
         "description": "Dwelling deep inside the forest, these creatures use their innate magic to control all flora and fauna within their territory.",
         "ailments": [
             {
@@ -9505,7 +9505,7 @@
         "species": "relict",
         "elements": [],
         "name": "Ancient Leshen",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/ancient_leshen_mhw.png",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/ancient_leshen_mhw.png",
         "description": "An old leshen that arrived through a portal to assume control over the Ancient Forest. Sometimes revered as an indigenous deity.",
         "ailments": [
             {
@@ -9623,7 +9623,7 @@
             "dragon"
         ],
         "name": "Safi'jiiva",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/safi'jiica-mhw-wiki-guide.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/safi'jiica-mhw-wiki-guide.jpg",
         "description": "The fully-grown form of Xeno'jiiva. It absorbs energy from its environment to heal itself and change the ecosystem.",
         "ailments": [
             {
@@ -9728,7 +9728,7 @@
             "dragon"
         ],
         "name": "Stygian Zinogre",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/stygian-zinogre-mhw-wiki-guide.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/stygian-zinogre-mhw-wiki-guide.jpg",
         "description": "Has a symbiotic relationship with Dracophage Bugs, which it releases like bullets. Becomes even more dangerous when covered in light.",
         "ailments": [
             {
@@ -9806,7 +9806,7 @@
             "thunder"
         ],
         "name": "Rajang",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rajang-mhw-wiki-guide.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rajang-mhw-wiki-guide.jpg",
         "description": "An ultra-aggressive creature that few have a chance of surviving against. Sports powerful arms that pack a punch, and turns gold when angry.",
         "ailments": [
             {
@@ -9900,7 +9900,7 @@
         "species": "fanged wyvern",
         "elements": [],
         "name": "Viper Tobi-Kadachi",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/viper-tobi-kadachi-mhw-wiki-guide.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/viper-tobi-kadachi-mhw-wiki-guide.jpg",
         "description": "The tail of this subspecies secretes a toxin while its fangs paralyze prey. It can also glide without climbing trees.",
         "ailments": [
             {
@@ -10025,7 +10025,7 @@
             "thunder"
         ],
         "name": "Namielle",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/namielle-gallery.png",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/namielle-gallery.png",
         "description": "An Elder Dragon said to be able to command water and use it as a shield. Though very few sightings have ever been reported, they mention 'exploding water' and 'bright glowing lights.' Its existence remains shrouded in mystery.",
         "ailments": [
             {
@@ -10119,7 +10119,7 @@
             "thunder"
         ],
         "name": "Zinogre",
-		"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zinogre_reveal.jpg",
+	"url": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zinogre_reveal.jpg",
         "description": "Lightning courses through the fur and unique plating of this fanged wyvern. It is most deadly in its supercharged state.",
         "ailments": [
             {
